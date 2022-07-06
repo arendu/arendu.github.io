@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-I am a Research Scientist at Facebook AI Research Accel (FAIR Accel). I work on problems related to Neural Machine Translation, Dialogue and Natural Language Generation.  
+I am an Applied Research Scientist in the [NeMo](https://developer.nvidia.com/nvidia-nemo) team at NVIDIA, working on problems in Natural Language Processing. Prior to this, I was a Research Scientist at Facebook AI Research Accel (FAIR Accel). I worked on gounding neural dialogue agents in complex domains (game playing) and also worked on improving Machine Translation of named enitties. 
 
 Before that, I was a PhD student in the Center for Language and Speech Processing (CLSP) at Johns Hopkins University. My primary research is in building computational models for user modeling, specifically in language learning. I apply techniques from Natural Language Processing (NLP), Machine Translation (MT), and Machine Learning (ML) towards this problem. 
 Check out these early prototypes, [here](https://arendu.github.io/MacaronicParseUI/macaronic-demo-inverse.xhtml) and [here](https://arendu.github.io/MacaronicParseUI/macaronic-coe.xhtml), to get a sense of the project.  
